@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "link": "/"
+    },
+   
+    {
+        "id": 4,
+        "link": "/about",
+        "linkText": "About"
+    },
+    {
+        "id": 5,
+        "linkText": "Services",
+        "child": true,
+        "submenu": [
+            {
+                "id": 5.1,
+                "link": "/services/roof",
+                "linkText": "Roofing"
+            },
+            {
+                "id": 5.2,
+                "link": "/services/commercial",
+                "linkText": "Commercial"
+            },
+            {
+                "id": 5.3,
+                "link": "/services/multi",
+                "linkText": "MultiFamily"
+            },
+            {
+                "id": 5.4,
+                "link": "/services/storm",
+                "linkText": "Storm-Damage"
+            },
+            {
+                "id": 5.5,
+                "link": "/services/sliding",
+                "linkText": "Sliding"
+            },
+            {
+                "id": 5.6,
+                "link": "/services/gutters",
+                "linkText": "Gutters"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "link": "/contact",
+        "linkText": "Contact"
+    }
+]

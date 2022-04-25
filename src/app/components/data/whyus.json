@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "icon":"fas fa-home",
+        "title":"Roofing",
+        "text":"Top-Tier Roofing Services for Multi-Family Buildings from minor repairs to full replacements, we provide superior roofing solutions for your property"
+    },
+    {
+        "id":2,
+        "icon":"fas fa-hotel",
+        "title":"Multi-Family",
+        "text":"Redesign your multifamily with a beautiful roof our prepared material experts offer quality answers for fix and substitution of loft and apartment suite rooftops"
+    },
+    {
+        "id":3,
+        "icon":"fas fa-building",
+        "title":"Commercial",
+        "text":"Keep your roof system in top shape through each season with our completely protected specialists."
+    },
+    {
+        "id":4,
+        "icon":"fas fa-house-damage",
+        "title":"Storm Damage",
+        "text":"We'll send skilled roofers and remodelers to mitigate the damage when a storm hits your property"
+    },
+    {
+        "id":5,
+        "icon":"fas fa-industry",
+        "title":"Sliding",
+        "text":"Boost the curb appeal of your home with a quality siding replacement."
+    },
+    {
+        "id":6,
+        "icon":"fas fa-tools",
+        "title":"Gutters",
+        "text":"Swap out your clogged and broken gutters for our seamless system with debris-blocking protection."
+    }
+]

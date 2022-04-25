@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "icon":"fas fa-check-square",
+        "title":"Roofing",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+        "id":2,
+        "icon":"fas fa-bed",
+        "title":"Multi-Family",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+        "id":3,
+        "icon":"fas fa-chart-bar",
+        "title":"Commericial",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+        "id":4,
+        "icon":"fas fa-shopping-cart",
+        "title":"Sotrm Damage",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    }
+]

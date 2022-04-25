@@ -1,0 +1,24 @@
+<section class="choose-grid section-padding section bg-light-white">
+    <div class="container">
+        <div class="section-header text-center ">
+            <div class="section-heading">
+                <h3 class="text-custom-black">Why <span class="text-custom-blue">Choose Us</span></h3>
+                <div class="section-description">
+                    <p class="text-light-dark">WE ARE CERTIFIED RESIDENTIAL AND COMMERCIAL CONTRACTORS. WE SPECIALIZE IN STORM RESTORATIONS OF ANY KIND. WE SERVE WHOLE TEXAS. BBB A+ AND 5-STAR CONTRACTOR ANGIE'S </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <!-- Data -->
+            <div class="text-custom-blue" class="col-lg-3 col-md-6 text-center mb-xl-30 wow fadeInRight" *ngFor="let item of whyus | slice:0:4">
+                <div class="choose-wrap">
+                    <div class="choose-icon"> <i [class]="item.icon"></i> </div>
+                    <h4>{{item.title}}</h4>
+                    <p>{{item.text}}...</p>
+                    <a href="#">Read More</a>
+                </div>
+            </div>
+            <!-- Data -->
+        </div>
+    </div>
+</section>

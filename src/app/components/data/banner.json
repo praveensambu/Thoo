@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "image":"assets/images/slider/roof3.jpg",
+        
+        "title":"Keep up with Your Home with a Long-Lasting Roof Built by Experts",
+        "text":"Our material project workers will distinguish any current rooftop harm and supplant your home's rooftop"
+    },
+    {
+        "id":2,
+        "image":"assets/images/slider/roof2.jpg",
+        "title":"Economy Needs A Healthy <span class='text-custom-blue'>Industry</span>",
+        "text":"Our material project workers will distinguish any current rooftop harm and supplant your home's rooftop"
+    },
+    {
+        "id":3,
+        "image":"assets/images/slider/roof1.jpg",
+        "title":"A company involved in service <span class='text-custom-blue'>maintenance</span>",
+        "text":"Our material project workers will distinguish any current rooftop harm and supplant your home's rooftop"
+    }
+]
