@@ -6,24 +6,6 @@
         "title":"Roofing"
     },
     {
-        "id":2,
-        "url":"services/multi",
-        "icon":"fas fa-hotel",
-        "title":"Multi-Family"
-    },
-    {
-        "id":3,
-        "url":"services/commercial",
-        "icon":"fas fa-building",
-        "title":"Commercial"
-    },
-    {
-        "id":4,
-        "url":"services/storm",
-        "icon":"fas fa-house-damage",
-        "title":"Storm Damage"
-    },
-    {
         "id":5,
         "url":"services/sliding",
         "icon":"fas fa-industry",
@@ -34,5 +16,23 @@
         "url":"services/gutters",
         "icon":"fas fa-tools",
         "title":"Gutters"
+    },    
+    {
+        "id":4,
+        "url":"services/storm",
+        "icon":"fas fa-house-damage",
+        "title":"Storm Damage"
+    },
+    {
+        "id":2,
+        "url":"services/multi",
+        "icon":"fas fa-hotel",
+        "title":"Multi-Family"
+    },
+    {
+        "id":3,
+        "url":"services/commercial",
+        "icon":"fas fa-building",
+        "title":"Commercial"
     }
 ]

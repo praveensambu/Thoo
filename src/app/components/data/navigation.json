@@ -22,28 +22,28 @@
             },
             {
                 "id": 5.2,
-                "link": "/services/commercial",
-                "linkText": "Commercial"
-            },
-            {
-                "id": 5.3,
-                "link": "/services/multi",
-                "linkText": "MultiFamily"
-            },
-            {
-                "id": 5.4,
                 "link": "/services/storm",
                 "linkText": "Storm-Damage"
             },
             {
-                "id": 5.5,
+                "id": 5.3,
                 "link": "/services/sliding",
                 "linkText": "Sliding"
             },
             {
-                "id": 5.6,
+                "id": 5.4,
                 "link": "/services/gutters",
                 "linkText": "Gutters"
+            },
+            {
+                "id": 5.5,
+                "link": "/services/commercial",
+                "linkText": "Commercial"
+            },
+            {
+                "id": 5.6,
+                "link": "/services/multi",
+                "linkText": "MultiFamily"
             }
         ]
     },

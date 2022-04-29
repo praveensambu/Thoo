@@ -76,10 +76,10 @@ button:focus, button:hover, ngb-rating:focus {
 		right: 15px;
    }
    .menu-item-has-children .submenu{
-	   border-color: #ff0000;
+	   border-color: #add8e6;
    }
    .header .navigation-wrapper nav>.main-navigation .main-menu>ul>.menu-item>a:after{
-	  background-color: #ff0000;
+	  background-color: #add8e6;
    }
 	.desk-logo{
 		display:none;
